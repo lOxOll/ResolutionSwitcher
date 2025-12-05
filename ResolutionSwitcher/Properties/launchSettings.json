@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ResolutionSwitcher (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "ResolutionSwitcher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
